@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hankcs</groupId>
-    <artifactId>hanlp</artifactId>
+    <artifactId>hanlp-demo-book</artifactId>
     <version>1.7.5</version>
 
     <name>HanLP</name>
